@@ -1,7 +1,7 @@
 # ML Implementation
 
 
-I Implement the some resarch paper in pytorch.
+I Implement the some research paper in pytorch.
 ----
 
 `dyt.py` -> https://arxiv.org/abs/2503.10622
